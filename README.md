@@ -3,6 +3,6 @@ This is loally hosted, so do the following:
 
 Navigate to THEpcosapp
 Then type: 
-python manage.py migrate
-python manage.py runserver
-open it on http://localhost:8000
+1.) "python manage.py migrate"
+2.) "python manage.py runserver"
+3.) "open it on http://localhost:8000"
